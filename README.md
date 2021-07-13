@@ -11,7 +11,7 @@ Here are some ideas to get you started:
  👯 I’m looking to collaborate on Computer Vision Projects <br>
  🤔 I’m looking for help with Hardware Acceleration using FPGA <br>
  💬 Ask me about ... <br>
- 📫 How to reach me: LinkedIn [https://www.linkedin.com/in/pritam-sethuraman/] <br>
+ 📫 How to reach me:  [LinkedIn]: https://www.linkedin.com/in/pritam-sethuraman/ <br>
  😄 Pronouns: Him/His <br>
  ⚡ Fun fact: I am not a robot <br>
 
