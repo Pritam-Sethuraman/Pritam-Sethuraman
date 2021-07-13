@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+### GitHub Stats:
 [![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=Pritam-Sethuraman&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-Sethuraman&theme=react&line_height=27&layout=compact)
 
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 
-![](https://komarev.com/ghpvc/?username=hemanthh17&color=blue)
+![](https://komarev.com/ghpvc/?username=pritam-sethuraman&color=blue)
 
 
 [linkedin]: https://www.linkedin.com/in/pritam-sethuraman/
