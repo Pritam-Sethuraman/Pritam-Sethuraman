@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
- 🔭 I’m currently working on ...building my career <br>
+ 🔭 I’m currently working on High Performance Computing and Artificial Intelligence <br>
  🌱 I’m currently learning ...artificial intelligence and high proccess computing <br>
  👯 I’m looking to collaborate on ... <br>
  🤔 I’m looking for help with ... <br>
