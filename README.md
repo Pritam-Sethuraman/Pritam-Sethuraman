@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 -->
  🔭 I’m currently working on High Performance Computing and Artificial Intelligence <br>
- 🌱 I’m currently learning ...artificial intelligence and high proccess computing <br>
- 👯 I’m looking to collaborate on ... <br>
- 🤔 I’m looking for help with ... <br>
+ 🌱 I’m currently learning Cloud Computing <br>
+ 👯 I’m looking to collaborate on Computer Vision Projects <br>
+ 🤔 I’m looking for help with Hardware Acceleration using FPGA <br>
  💬 Ask me about ... <br>
  📫 How to reach me: LinkedIn [https://www.linkedin.com/in/pritam-sethuraman/] <br>
  😄 Pronouns: Him/His <br>
