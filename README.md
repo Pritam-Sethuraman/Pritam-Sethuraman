@@ -1,5 +1,5 @@
-###  I'm Pritam
-#### I'm a final year Electronics and Communication Engineering student from VIT Chennai
+#  I'm Pritam
+### I'm a final year Electronics and Communication Engineering student from VIT Chennai
 
 <!--
 **Pritam-Sethuraman/Pritam-Sethuraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
