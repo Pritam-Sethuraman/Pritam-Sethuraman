@@ -1,23 +1,13 @@
-<!--![image]()-->
-![image](https://user-images.githubusercontent.com/78743757/128595104-75d342d9-4f75-45e2-9714-58499ea35b6e.png)
-
-### Hi there 👋
+###  I'm Pritam
+#### I'm a final year Electronics and Communication Engineering student from VIT Chennai
 
 <!--
 **Pritam-Sethuraman/Pritam-Sethuraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
- 🔭 I’m currently working on High Performance Computing and Artificial Intelligence <br>
- 🌱 I’m currently learning Cloud Computing <br>
- 👯 I’m looking to collaborate on Computer Vision Projects <br>
- 🤔 I’m looking for help with Hardware Acceleration using FPGA <br>
- 💬 Ask me about ... <br>
- 📫 How to reach me:  [LinkedIn]: https://www.linkedin.com/in/pritam-sethuraman/ <br>
- 😄 Pronouns: Him/His <br>
+ 🔭 I’m currently working on Industrial IoT and 5G RAN Networks <br>
  ⚡ Fun fact: I am not a robot <br>
-
-
 
 
 ### Languages and Tools:
@@ -25,14 +15,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="java" width="35px" src="https://symbols-electrical.getvecta.com/stencil_85/10_java-icon.e6c5a2a97a.jpg" /> 
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> 
 <br>
 <br>
-<br>
-<br>
+
 
 ### GitHub Stats:
 [![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=Pritam-Sethuraman&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
