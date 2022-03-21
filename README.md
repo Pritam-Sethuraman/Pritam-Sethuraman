@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
  🔭 I’m currently working on Industrial IoT and 5G RAN Networks <br>
- ⚡ Fun fact: I am not a robot <br>
+ ⚡ Fun fact: I love anime <br>
 
 
 ### Languages and Tools:
