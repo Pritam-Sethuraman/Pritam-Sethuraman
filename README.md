@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
--🔭 I’m currently working on Analog Design, Industrial IoT and 5G RAN Networks <br>
+-🔭 I’m currently working on Analog Design, Industry 4.0 and 5G RAN Networks <br>
 -⚡ Fun fact: I love anime <br>
 
 
