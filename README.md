@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/pritam-sethuraman/
 [kaggle]: https://www.kaggle.com/pritamsethuraman
-[website]: https://github.com/Pritam-Sethuraman
+[website]: https://pritamsethuraman.netlify.app/
