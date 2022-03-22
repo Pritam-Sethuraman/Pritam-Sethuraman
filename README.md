@@ -28,4 +28,21 @@ I'm a final year Electronics and Communication Engineering student from VIT Chen
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kram254&theme=tokyonight)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pritam-sethuraman&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pritam-sethuraman&color=blue)
+<br>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pritam-sethuraman/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/pritam.sethuraman/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.facebook.com/spritam25" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://open.spotify.com/user/31diwxnsyxhojrjnexjnoahv6ulq" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+</a>
+<img src="https://komarev.com/ghpvc/?username=pritam-sethuraman&color=blue" alt="visitors">
+<img src="https://img.shields.io/github/followers/pritam-sethuraman?label=Followers&style=social" alt="followers">
+</p>
