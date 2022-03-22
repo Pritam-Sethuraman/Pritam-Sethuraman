@@ -43,6 +43,6 @@ I'm a final year Electronics and Communication Engineering student from VIT Chen
 <a href="https://open.spotify.com/user/31diwxnsyxhojrjnexjnoahv6ulq" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
 </a>
+<img src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social" alt="followers">
 <img src="https://komarev.com/ghpvc/?username=pritam-sethuraman&color=blue" alt="visitors">
-<img src="https://img.shields.io/github/followers/pritam-sethuraman?label=Followers&style=social" alt="followers">
 </p>
