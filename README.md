@@ -21,7 +21,6 @@ I'm a final year Electronics and Communication Engineering student from VIT Chen
 - 👨‍💻 I’m currently learning PCB Designing, Flutter and JavaScript.
 - 🤔 Embedded System Development, System Testing and Integration Testing.
 - ⚡ Fun fact: I love anime <br>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pritam-sethuraman/)
 
 <br>
 
