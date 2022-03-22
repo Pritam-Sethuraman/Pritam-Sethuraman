@@ -1,4 +1,4 @@
-### Hi there I'm Pritam Sethuraman, 👋
+## Hi there I'm Pritam Sethuraman, 👋
 
 I'm a final year Electronics and Communication Engineering student from VIT Chennai
 
