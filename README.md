@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ### GitHub Stats:
-[![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=Pritam-Sethuraman&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=Pritam-Sethuraman&count_private=true&include_all_commits=true&theme=radical&layout=compact)](https://google.com)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-Sethuraman&theme=react&line_height=27&layout=compact)
 
 ## Connect with me: <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
