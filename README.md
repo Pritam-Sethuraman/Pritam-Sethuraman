@@ -26,10 +26,13 @@ I'm a final year Electronics and Communication Engineering student from VIT Chen
 
 <br>
 
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-sethuraman&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kram254&theme=tokyonight)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pritam-sethuraman&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=pritam-sethuraman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="GitHub Stats" />
+</a>
 
 <br>
 
