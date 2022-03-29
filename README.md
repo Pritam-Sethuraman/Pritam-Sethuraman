@@ -27,7 +27,6 @@ I'm a final year Electronics and Communication Engineering student from VIT Chen
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-sethuraman&theme=dark)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-sethuraman&theme=dark)
 
 <br>
