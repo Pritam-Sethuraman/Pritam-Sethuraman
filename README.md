@@ -24,7 +24,7 @@ I'm a final year Electronics and Communication Engineering student from VIT Chen
 - 🔭 I’m currently working on Analog Design, Industry 4.0 and 5G RAN Networks.
 - 👨‍💻 I’m currently learning PCB Designing, Flutter and JavaScript.
 - 🤔 Embedded System Development, System Testing and Integration Testing.
-- ⚡ Fun fact: I love anime <br>
+- ⚡ Fun fact: I play soccer <br>
 
 <br>
 
