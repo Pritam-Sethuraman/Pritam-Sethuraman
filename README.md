@@ -4,7 +4,7 @@
 
 ## Hi there I'm Pritam Sethuraman, 👋
 
-I'm a final year Electronics and Communication Engineering student from VIT Chennai
+I'm Graduate student at Concordia University pursuing Master's of Engineering in Electrical and Computer Engineering
 
 ## Languages and Tools 🧰
 <p align="center">
