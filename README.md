@@ -4,7 +4,7 @@
 
 ## Hi there I'm Pritam Sethuraman, 👋
 
-I'm Graduate student at Concordia University pursuing Master's of Engineering in Electrical and Computer Engineering
+I'm a graduate student at Concordia University pursuing Master's of Engineering in Electrical and Computer Engineering
 
 ## Languages and Tools 🧰
 <p align="center">
