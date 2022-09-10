@@ -22,9 +22,9 @@ I'm Graduate student at Concordia University pursuing Master's of Engineering in
 
 <br>
 
-- 🔭 I’m currently working on Analog Design, Industry 4.0 and 5G RAN Networks.
-- 👨‍💻 I’m currently learning PCB Designing, Flutter and JavaScript.
-- 🤔 Embedded System Development, System Testing and Integration Testing.
+- 🔭 I’m currently working on Analog Design.
+- 👨‍💻 I’m currently learning PCB Designing, Flutter.
+- 🤔 Embedded System Development, VLSI System Design and Front End Development.
 - ⚡ Fun fact: I play soccer <br>
 
 <br>
