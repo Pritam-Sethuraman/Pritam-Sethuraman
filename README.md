@@ -22,7 +22,7 @@ I'm a graduate student at Concordia University pursuing Master's of Engineering 
 
 <br>
 
-- 🔭 I’m currently working on Analog Design.
+- 🔭 I’m currently working on Digital Design.
 - 👨‍💻 I’m currently learning PCB Designing, Flutter.
 - 🤔 Embedded System Development, VLSI System Design and Front End Development.
 - ⚡ Fun fact: I play soccer <br>
