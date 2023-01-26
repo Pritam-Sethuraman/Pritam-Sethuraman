@@ -24,10 +24,6 @@ I'm a ECE Master's student at [Concordia Universty](https://www.concordia.ca/), 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-sethuraman&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-sethuraman&theme=dark)
 
-### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=pritam-sethuraman&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
 <br>
 
 <p align="center">
