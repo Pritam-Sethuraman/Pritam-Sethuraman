@@ -18,9 +18,6 @@ I'm a ECE Master's student at [Concordia Universty](https://www.concordia.ca/), 
 <a href="https://www.facebook.com/spritam25" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-<a href="https://open.spotify.com/user/31diwxnsyxhojrjnexjnoahv6ulq" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
-</a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=pritam-sethuraman&color=blue" alt="visitors">
 </p>
