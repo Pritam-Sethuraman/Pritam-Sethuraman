@@ -7,9 +7,10 @@
 # Hi there 👋
 
 ## 💫 About Me:
-🔭 I'm Pritam, a Silicon Analyst at Accenture<br>
+💼 Silicon Analyst at Accenture<br>
+🎓 Master's in Electrical and Computer Engineering from Concordia University<br>
 🌱 My key interests are in ASIC Design and Verification<br>
-💻 I'm proficient in VHDL, SystemVerilog, UVM, etc.<br>
+💻 I'm proficient in VHDL, Verilog, SystemVerilog and UVM
 👯 I’m looking to collaborate on projects related to ASIC design and verification<br>
 💬 Ask me about anything related to ASIC Design and Verification<br>
 
@@ -27,10 +28,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-
 ---
 
-</a>
-<br>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=pritam-sethuraman&color=blue" alt="visitors">
-</p>
+</div>
