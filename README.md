@@ -10,7 +10,7 @@
 💼 Silicon Analyst at Accenture<br>
 🎓 Master's in Electrical and Computer Engineering from Concordia University<br>
 🌱 My key interests are in ASIC Design and Verification<br>
-💻 I'm proficient in VHDL, Verilog, SystemVerilog and UVM
+💻 I'm proficient in VHDL, Verilog, SystemVerilog and UVM<br>
 👯 I’m looking to collaborate on projects related to ASIC design and verification<br>
 💬 Ask me about anything related to ASIC Design and Verification<br>
 
