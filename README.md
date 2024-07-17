@@ -14,7 +14,7 @@
 💬 Ask me about anything related to ASIC Design and Verification<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/pritam-sethuraman/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pritam-sethuraman/]) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pritamsethuraman@gmail.com)
 
 ## 💻 Tech Stack:
