@@ -30,6 +30,6 @@
 
 ---
 
-<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=pritam-sethuraman&color=blue" alt="visitors">
-</div>
+
