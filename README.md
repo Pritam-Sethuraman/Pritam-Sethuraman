@@ -7,7 +7,6 @@
 # Hi there 👋
 
 ## 💫 About Me:
-💼 Silicon Analyst at Accenture<br>
 🎓 Master's in Electrical and Computer Engineering from Concordia University<br>
 🌱 My key interests are in ASIC Design and Verification<br>
 💻 I'm proficient in VHDL, Verilog, SystemVerilog and UVM<br>
